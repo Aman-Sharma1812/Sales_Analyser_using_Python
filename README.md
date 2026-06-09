@@ -69,4 +69,4 @@ Sales_Analyser_using_Python/
 
 Aman Sharma
 
-Tech Entrepreneur | Data Analyst | Full Stack Developer 
+Tech Entrepreneur | Data Analyst | Full Stack Web Developer 
